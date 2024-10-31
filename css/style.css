@@ -1,0 +1,5 @@
+/* Remove this margin that comes automatically
+   with Wordpress */
+.widget.placeholder-it {
+    margin: 0px !important;
+}

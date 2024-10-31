@@ -1,0 +1,199 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Placeholder.it widget\n"
+"POT-Creation-Date: 2016-06-06 17:51+0200\n"
+"PO-Revision-Date: 2016-06-06 17:51+0200\n"
+"Last-Translator: Johan van de Merwe <mail@johanvandemerwe.nl>\n"
+"Language-Team: Johan van de Merwe <mail@johanvandemerwe.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: placeholder-it-widget.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: placeholder-it-widget.php:48
+msgid "Plugin Options"
+msgstr ""
+
+#: placeholder-it-widget.php:76 placeholder-it-widget.php:87
+msgid "Settings"
+msgstr ""
+
+#: settings/class.settings-api.php:347
+msgid "Choose File"
+msgstr ""
+
+#: settings/settings.php:54
+msgid "General Settings"
+msgstr ""
+
+#: settings/settings.php:72
+msgid "Default Width"
+msgstr ""
+
+#: settings/settings.php:73
+msgid "Default width in pixels, default=350 (no px added!)"
+msgstr ""
+
+#: settings/settings.php:80
+msgid "Default Height"
+msgstr ""
+
+#: settings/settings.php:81
+msgid "Default height in pixels, default=350 (no px added!)"
+msgstr ""
+
+#: settings/settings.php:87
+msgid "Image class(es)"
+msgstr ""
+
+#: settings/settings.php:88
+msgid "Any classes added in this field will be added to the widget classes"
+msgstr ""
+
+#: settings/settings.php:94 widget/widget.placeholder-it-widget.php:205
+msgid "Image padding"
+msgstr ""
+
+#: settings/settings.php:95
+msgid "Image padding (f.e. 5px 1em), default=\"5px\""
+msgstr ""
+
+#: settings/settings.php:102
+msgid "Include wrapper class"
+msgstr ""
+
+#: settings/settings.php:103
+msgid "Include the image in a wrapper? (default=checked)"
+msgstr ""
+
+#: settings/settings.php:108
+msgid "Wrapper class(es)"
+msgstr ""
+
+#: settings/settings.php:109
+msgid ""
+"Additional wrapper classes, \"placeholder-it-wrapper\" will be included, "
+"when \"include wrapper class\" is checked and this value is empty"
+msgstr ""
+
+#: settings/settings.php:114
+msgid "Text (prefix)"
+msgstr ""
+
+#: settings/settings.php:115
+msgid ""
+"Any text here will be prefix in the widget settings, leave empty to use "
+"dimensions instead of text"
+msgstr ""
+
+#: settings/settings.php:120
+msgid "Foreground color"
+msgstr ""
+
+#: settings/settings.php:121 settings/settings.php:127
+msgid "Leave blank to take the default"
+msgstr ""
+
+#: settings/settings.php:126 widget/widget.placeholder-it-widget.php:250
+msgid "Background color"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:40
+msgid "Placehold.it Placeholder"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:50
+msgid "Placeholder It Widget"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:186
+msgid "Title"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:193
+msgid "Width"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:199
+msgid "Height"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:212
+msgid "Image extra CSS Classes"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:216
+msgid "Leave empty for no extra classes"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:220
+msgid "Surround image with wrapper"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:223
+msgid "The image is bound in a \"div\" wrapper"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:227
+msgid "Wrapper CSS Classes"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:231
+msgid ""
+"When \"wrapper\" is checked and this value is empty, \"placeholder-it-wrapper"
+"\" will be used as class"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:235
+msgid "Text"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:239
+msgid "Show this text instead of dimensions"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:243
+msgid "Text color"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:246
+msgid "Enter a color color code like \"#FF9000\", or leave empty for default"
+msgstr ""
+
+#: widget/widget.placeholder-it-widget.php:253
+msgid ""
+"Same as Text color, takes a default if color is entered and this field is "
+"empty"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Placeholder.it widget"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.enovision.nl/Placeholder_It_Widget_widget"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple widget to add placeholders using placeholder.it webservice during "
+"development of a site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Johan van de Merwe"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.enovision.net"
+msgstr ""

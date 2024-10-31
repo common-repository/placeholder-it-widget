@@ -1,0 +1,13 @@
+.wrap.placeholder-it-widget .metabox-holder {
+    border: 1px solid #f1f1f1;
+    background: white;
+    padding: 20px;
+}
+
+.widget.placeholder-it {
+    margin: 0px !important;
+}
+
+.cp-color-picker {
+    z-index: 200000;
+}
